@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 👋 Hi, Nkwantabisa Joseph
+# 👋 Hi, Nkwantabisa Joseph here
 
 🎓 Kotlin-Android developer
 
