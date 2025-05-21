@@ -7,7 +7,7 @@
 
 ## 🧠 Summary
 
-I’m a passionate developer focused on building real-world mobile and web apps using Kotlin,Jetpack Compose and XML.  
+I’m a high-average developer focused on building real-world mobile and web apps using Kotlin,Jetpack Compose and XML.  
 
 ---
 
