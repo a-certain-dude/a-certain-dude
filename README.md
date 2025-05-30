@@ -7,7 +7,7 @@
 
 ## 🧠 Summary
 
-I’m stil Junior developer transitoining from the learning stage to focus on building real-world mobile and web apps using Kotlin,Jetpack Compose and XML.  
+I’m still Junior developer transitoining from the learning stage to  building real-world mobile and web apps using Kotlin,Jetpack Compose and XML.  
 
 ---
 
