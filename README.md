@@ -11,7 +11,7 @@ object Joseph {
     
     override fun toString(): String {
         return """
-        Marcus:
+        Joseph:
         age: $age
         from: $from
         languages: $languages
