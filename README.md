@@ -2,7 +2,7 @@
 ---
 
 ```Kotlin
-object Marcus {
+object Joseph {
     val age: Int = 23
     val from: String = "Joseph Nkwantabisa, Ghana"
     val languages: List<String> = listOf("English", "Twi")
