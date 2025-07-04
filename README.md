@@ -23,7 +23,7 @@ object Joseph {
 
 ```
 
-<img src="./img/Coding Hello World GIF.gif" alt="img-profile" width="300px" align="right" style="border-radius: 10px;"/>
+<img src="img/Coding Hello World GIF.gif" alt="img-profile" width="300px" align="right" style="border-radius: 10px;"/>
 
 🚀 Tools and Technologies:
 ---
