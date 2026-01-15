@@ -3,9 +3,9 @@
 
 ```Kotlin
 object Joseph {
-    val age: String = 23
+    val age: String = 24
     val from: String = "Asato - Oti Region, Ghana"
-    val languages: List<String> = listOf("English", "Twi")
+    val languages: List<String> = listOf("English", "Twi","Ewe")
     val interests: List<String> = listOf("Mobile Development")
     val curiosity: String = "I'm a strong linux/Android defender :)"
     
